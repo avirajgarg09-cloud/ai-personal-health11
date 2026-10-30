@@ -1,0 +1,14 @@
+{
+  "name": "VitalEdge - Offline-First Health Assistant",
+  "short_name": "VitalEdge",
+  "description": "Offline-first personal health dashboard and clinical AI assistant.",
+  "start_url": "/dashboard",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4fbf7",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
