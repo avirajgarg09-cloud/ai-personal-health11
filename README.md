@@ -67,46 +67,6 @@ It combines a clean personal health dashboard with a set of clinical-style AI to
 
 ---
 
-## 📸 Screenshots
-
-> 🖼️ **Add your screenshots to `docs/screenshots/`** and keep the file names below (or edit the paths). Tip: take them from the [live app](https://ai-personal-health11.vercel.app) at 1440×900 for desktop and 390×844 for mobile.
-
-<div align="center">
-
-| Dashboard | Ambient Scribe |
-|:---:|:---:|
-| <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="420"/> | <img src="docs/screenshots/ambient-scribe.png" alt="Ambient Scribe" width="420"/> |
-
-| Prescription Analyzer | Report Translator |
-|:---:|:---:|
-| <img src="docs/screenshots/prescription-analyzer.png" alt="Prescription Analyzer" width="420"/> | <img src="docs/screenshots/report-translator.png" alt="Report Translator" width="420"/> |
-
-| AI Chat | Mobile View |
-|:---:|:---:|
-| <img src="docs/screenshots/ai-chat.png" alt="AI Chat" width="420"/> | <img src="docs/screenshots/mobile.png" alt="Mobile view" width="200"/> |
-
-</div>
-
----
-
-## 🎬 Demo Video
-
-> 🎥 Record a 1–2 minute walkthrough (screen recorder, Loom, or OBS), upload it, then use **one** of the options below.
-
-**Option A – YouTube (recommended, clickable thumbnail):**
-
-```md
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-```
-
-**Option B – Direct upload to GitHub:** drag and drop an `.mp4` (under 10 MB) into the README editor on GitHub and it will embed a player automatically.
-
-**Option C – Animated GIF preview:**
-
-```md
-![Demo](docs/demo.gif)
-```
-
 ---
 
 ## 🧠 How It Works
